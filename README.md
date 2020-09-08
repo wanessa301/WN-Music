@@ -1,3 +1,4 @@
 #EXTM3U
 #EXTINF: -1 tvg-id = "Link Park" tvg-name = "Link Park" tvg-logo = "" group-title = "Canais | WN Music", LinkPark
-https://r3---sn-bg0eznle.googlevideo.com/videoplayback?expire=1599239985&ei=EVtSX9_RFtGC-LAPjIOJoAc&ip=2804:d45:3919:9700:449:6c20:aea9:bc0b&id=3e3b44bea51dcd6b&itag=18&source=picasa&begin=0&requiressl=yes&sc=yes&susc=ph&app=fife&eaua=Fy9lgiZSPHo&mime=video/mp4&dur=176.866&lmt=1599232741331037&cpn=6Z0f-b659PxtWhup&c=WEB_EMBEDDED_PLAYER&cver=20200903&sparams=expire,ei,ip,id,itag,source,requiressl,susc,app,eaua,mime,dur,lmt&sig=AOq0QJ8wRQIhAMzJl8Yl5Ee3bLKLVqAUEwexRBdgFtzrX1Az6IrRDbjCAiAX5O5dGs38Mv4GaBAepDuLjRhIDvWGdhYo2P8oS39Npw==&redirect_counter=1&rm=sn-bg0ks7s&req_id=afb5b162a94b073e&cms_redirect=yes&ipbypass=yes&mh=Zw&mip=2804:d45:3959:7c00:a1dc:6395:c909:627b&mm=32&mn=sn-bg0eznle&ms=su&mt=1599233068&mv=m&mvi=3&pl=40&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AG3C_xAwRAIgDVahfbiBZsJqPL9abjjnoZoZCI25BFpDgZfCHogiBr4CIEN45lrNCeXllOJUH7w9nzu5OG94BdNbZMC-KSVsa-Tu
+https://pastebin.com/raw/3QNMjVJm
+
